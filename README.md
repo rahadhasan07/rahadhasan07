@@ -1,4 +1,4 @@
-![logo](https://github.com/rahadhasan07/rahadhasan07/commit/d87cedfa97b75e2cf6c4773cb95c394d52280734)
+![logo](https://github.com/rahadhasan07/rahadhasan07/blob/main/_Blue%20Purple%20Neon%20Gaming%20Youtube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Rahad Hasan</h1>
 <h3 align="center">A passionate Python Programmer</h3>
 
