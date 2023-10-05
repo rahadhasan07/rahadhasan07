@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Frameworks etc.**
 
+- 👨‍💻 All of my projects are available at [https://badbuzz07.blogspot.com/](https://badbuzz07.blogspot.com/)
+
 - 📝 I regularly write articles on [https://badbuzz07.blogspot.com/](https://badbuzz07.blogspot.com/)
 
 - 💬 Ask me about **Python Programming**
