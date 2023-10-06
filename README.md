@@ -3,6 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahadhasan07&label=Profile%20views&color=0e75b6&style=flat" alt="rahadhasan07" /> </p>
+
 ![logo](https://github.com/rahadhasan07/rahadhasan07/blob/main/Rahad%20Animation.gif)
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
