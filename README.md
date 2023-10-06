@@ -13,7 +13,7 @@
 <h3 align="center">Iam a computer science student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahadhasan07&label=Profile%20views&color=0e75b6&style=flat" alt="rahadhasan07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahadhasan07&theme=" alt="rahadhasan07" /></a> </p>
+
 
 - 🔭 I’m currently working on **Python Programming**
 - 🌱 I’m currently learning **Frameworks**
